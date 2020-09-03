@@ -1,5 +1,5 @@
 [package]
-url = https://github.com/ukncsc/zeek-plugin-ikev2
+url = https://github.com/neu5ron/zeek-plugin-ikev2
 version = master
 depends = 
 	zeek >=3.0.0
